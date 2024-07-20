@@ -12688,7 +12688,6 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(net 221383328)
 			(uuid "86badc11-9372-468b-8e51-899c9292c71e")
 		)
 		(fp_line
@@ -12709,7 +12708,6 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(net 221383328)
 			(uuid "87aa93a5-f54f-4835-9593-114959197648")
 		)
 		(fp_line
@@ -13908,7 +13906,7 @@
 	)
 	(gr_rect
 		(start 99.55 116.1)
-		(end 107.45 121.9)
+		(end 107.45 123.075)
 		(stroke
 			(width 0.254)
 			(type default)
@@ -14317,8 +14315,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "RA  2023\nMPS 2021\nMAC 2014"
-		(at 99.65 121.1 0)
+	(gr_text "RA  2023\nMPS 2021\nMAC 2014\nMDA 2014"
+		(at 99.625 122.7 0)
 		(layer "F.SilkS")
 		(uuid "e03e2e7c-b34c-41cd-bf66-a1b1134114e8")
 		(effects
